@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import ProductCard from '../components/ProductCard';
-import SearchBar from '../components/SearchBar';
+import ProductCard from '../components/productCard';
+import SearchBar from '../components/searchBar';
 
 const HomePage = () => {
   const [products, setProducts] = useState([]);
