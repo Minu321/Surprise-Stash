@@ -3,10 +3,10 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { CartProvider } from './contexts/cartContext';
 import Layout from './components/layout';
 import HomePage from './pages/homePage';
-import ProductPage from './pages/ProductPage';
+import ProductPage from './pages/productPage';
 import CartPage from './pages/cartPage';
-import CheckoutSuccessPage from './pages/CheckoutSuccessPage';
-import ContactPage from './pages/ContactPage';
+import CheckoutSuccessPage from './pages/checkoutSuccessPage';
+import ContactPage from './pages/contactPage';
 import './App.css'
 
 
