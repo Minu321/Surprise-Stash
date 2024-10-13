@@ -1,10 +1,10 @@
 import React from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { CartProvider } from './contexts/cartContext';
-import Layout from './components/Layout';
-import HomePage from './pages/HomePage';
+import Layout from './components/layout';
+import HomePage from './pages/homePage';
 import ProductPage from './pages/ProductPage';
-import CartPage from './pages/CartPage';
+import CartPage from './pages/cartPage';
 import CheckoutSuccessPage from './pages/CheckoutSuccessPage';
 import ContactPage from './pages/ContactPage';
 import './App.css'
