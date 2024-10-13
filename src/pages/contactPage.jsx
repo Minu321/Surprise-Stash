@@ -46,7 +46,7 @@ const ContactPage = () => {
     e.preventDefault();
     if (validateForm()) {
       console.log(formData);
-      // Here you would typically send the form data to a server
+      
     }
   };
 
@@ -56,7 +56,7 @@ const ContactPage = () => {
       <div className="flex-grow flex items-center justify-center">
         <form onSubmit={handleSubmit} className="w-full max-w-lg">
           <div className="mb-4">
-            <label htmlFor="fullName" className="block mb-2 text-sm font-medium text-gray-900">Full Name</label>
+            <label htmlFor="fullName" className="block mb-2 text-sm font-medium text-white-900">Full Name</label>
             <input
               type="text"
               id="fullName"
@@ -69,7 +69,7 @@ const ContactPage = () => {
           </div>
 
           <div className="mb-4">
-            <label htmlFor="subject" className="block mb-2 text-sm font-medium text-gray-900">Subject</label>
+            <label htmlFor="subject" className="block mb-2 text-sm font-medium text-white-900">Subject</label>
             <input
               type="text"
               id="subject"
@@ -82,7 +82,7 @@ const ContactPage = () => {
           </div>
 
           <div className="mb-4">
-            <label htmlFor="email" className="block mb-2 text-sm font-medium text-gray-900">Email</label>
+            <label htmlFor="email" className="block mb-2 text-sm font-medium text-white-900">Email</label>
             <input
               type="email"
               id="email"
@@ -95,7 +95,7 @@ const ContactPage = () => {
           </div>
 
           <div className="mb-4">
-            <label htmlFor="body" className="block mb-2 text-sm font-medium text-gray-900">Message</label>
+            <label htmlFor="body" className="block mb-2 text-sm font-medium text-white-900">Message</label>
             <textarea
               id="body"
               name="body"
