@@ -64,5 +64,6 @@ Follow these steps to set up the project locally:
 ## Contact:
 [LinkedIn](https://www.linkedin.com/in/mina-roseth-beni-652b90292/)
 
-
+## Contribute
 Thank you for checking out Holidaze! If you have any questions or encounter issues, feel free to open an issue or contribute to the project.
+
