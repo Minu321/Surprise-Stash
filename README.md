@@ -61,5 +61,8 @@ Follow these steps to set up the project locally:
 
 5. Open your browser and navigate to `http://localhost:5173`.
 
+## Contact:
+[LinkedIn](https://www.linkedin.com/in/mina-roseth-beni-652b90292/)
+
 
 Thank you for checking out Holidaze! If you have any questions or encounter issues, feel free to open an issue or contribute to the project.
