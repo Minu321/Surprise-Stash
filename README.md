@@ -8,9 +8,7 @@ Surprise Stash is an eCommerce platform for browsing and purchasing products. Th
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Authentication](#authentication)
-- [Future Improvements](#future-improvements)
+
 
 ## Description
 
@@ -62,3 +60,6 @@ Follow these steps to set up the project locally:
    ```
 
 5. Open your browser and navigate to `http://localhost:5173`.
+
+
+Thank you for checking out Holidaze! If you have any questions or encounter issues, feel free to open an issue or contribute to the project.
